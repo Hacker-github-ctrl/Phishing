@@ -1,3 +1,3 @@
-´´´
-git clone https://github.com/Hacker-github-ctrl/Phishing.git
+```
+https://github.com/Hacker-github-ctrl/Phishing.git
 ```
